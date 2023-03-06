@@ -1,0 +1,30 @@
+/* CSS general de la web*/
+body {
+    min-height: 100vh;
+    margin: 0;
+    color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style: none;
+}
+
+/* CSS general del login*/
+.login {
+    background: rgba(95, 94, 94, 0.801);
+    box-shadow: 0 0 5px white;
+    max-width: 800px;
+}
+
+.login__header {
+    font-variant: small-caps;
+}
+
+
+
+
